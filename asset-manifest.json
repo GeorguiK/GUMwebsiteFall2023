@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GUMwebsiteFall2023/static/css/main.d8a3e0ed.css",
-    "main.js": "/GUMwebsiteFall2023/static/js/main.485b6368.js",
+    "main.js": "/GUMwebsiteFall2023/static/js/main.6b4ef55d.js",
     "static/js/787.d1d4a2c2.chunk.js": "/GUMwebsiteFall2023/static/js/787.d1d4a2c2.chunk.js",
     "static/media/GUM_Orientation.png": "/GUMwebsiteFall2023/static/media/GUM_Orientation.2f390ca1cc3cdc27d721.png",
     "static/media/venmo2.png": "/GUMwebsiteFall2023/static/media/venmo2.317951d9209ff3601496.png",
@@ -13,11 +13,11 @@
     "static/media/facebook.png": "/GUMwebsiteFall2023/static/media/facebook.8d13294db277b93f38a7.png",
     "index.html": "/GUMwebsiteFall2023/index.html",
     "main.d8a3e0ed.css.map": "/GUMwebsiteFall2023/static/css/main.d8a3e0ed.css.map",
-    "main.485b6368.js.map": "/GUMwebsiteFall2023/static/js/main.485b6368.js.map",
+    "main.6b4ef55d.js.map": "/GUMwebsiteFall2023/static/js/main.6b4ef55d.js.map",
     "787.d1d4a2c2.chunk.js.map": "/GUMwebsiteFall2023/static/js/787.d1d4a2c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d8a3e0ed.css",
-    "static/js/main.485b6368.js"
+    "static/js/main.6b4ef55d.js"
   ]
 }
